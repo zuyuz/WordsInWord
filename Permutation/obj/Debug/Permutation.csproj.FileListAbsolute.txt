@@ -1,0 +1,6 @@
+C:\Users\Zayat\OneDrive\documents\visual studio 2015\Projects\MVC2\Permutation\bin\Debug\Permutation.exe.config
+C:\Users\Zayat\OneDrive\documents\visual studio 2015\Projects\MVC2\Permutation\bin\Debug\Permutation.exe
+C:\Users\Zayat\OneDrive\documents\visual studio 2015\Projects\MVC2\Permutation\bin\Debug\Permutation.pdb
+C:\Users\Zayat\OneDrive\documents\visual studio 2015\Projects\MVC2\Permutation\obj\Debug\Permutation.csprojResolveAssemblyReference.cache
+C:\Users\Zayat\OneDrive\documents\visual studio 2015\Projects\MVC2\Permutation\obj\Debug\Permutation.exe
+C:\Users\Zayat\OneDrive\documents\visual studio 2015\Projects\MVC2\Permutation\obj\Debug\Permutation.pdb

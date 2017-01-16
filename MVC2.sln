@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC2", "MVC2\MVC2.csproj", "{85E9D329-2F6D-4130-827C-9471830CDDFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutation", "Permutation\Permutation.csproj", "{7E07BF87-A129-4375-9D40-0F906B61C224}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85E9D329-2F6D-4130-827C-9471830CDDFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85E9D329-2F6D-4130-827C-9471830CDDFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85E9D329-2F6D-4130-827C-9471830CDDFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85E9D329-2F6D-4130-827C-9471830CDDFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E07BF87-A129-4375-9D40-0F906B61C224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E07BF87-A129-4375-9D40-0F906B61C224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E07BF87-A129-4375-9D40-0F906B61C224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E07BF87-A129-4375-9D40-0F906B61C224}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
